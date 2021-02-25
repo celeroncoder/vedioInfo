@@ -1,0 +1,16 @@
+{
+  "name": "vediolength",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Khushal",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.3.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
